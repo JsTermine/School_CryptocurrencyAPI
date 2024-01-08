@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Jason
+Build-Jdk: 17.0.8.1
+Implementation-Title: LB_M295_Jason_Termine_Backend
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: wiss.m295
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
